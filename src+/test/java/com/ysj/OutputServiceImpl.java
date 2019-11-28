@@ -1,8 +1,6 @@
 package com.ysj;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class OutputServiceImpl implements OutputService {
 
 	@Override

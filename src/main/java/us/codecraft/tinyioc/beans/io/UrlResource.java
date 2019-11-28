@@ -5,9 +5,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class UrlResource implements Resource {
 
     private final URL url;

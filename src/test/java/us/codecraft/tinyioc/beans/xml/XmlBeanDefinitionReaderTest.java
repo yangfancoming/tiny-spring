@@ -7,9 +7,7 @@ import us.codecraft.tinyioc.beans.io.ResourceLoader;
 
 import java.util.Map;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class XmlBeanDefinitionReaderTest {
 
 	@Test

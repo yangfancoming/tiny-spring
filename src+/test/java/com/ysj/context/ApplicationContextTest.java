@@ -8,9 +8,7 @@ import com.ysj.OutputService;
 import com.ysj.tinySpring.context.ApplicationContext;
 import com.ysj.tinySpring.context.ClassPathXmlApplicationContext;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ApplicationContextTest {
 	
 	@Test

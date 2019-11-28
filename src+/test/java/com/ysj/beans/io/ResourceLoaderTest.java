@@ -9,9 +9,7 @@ import org.junit.Test;
 import com.ysj.tinySpring.beans.io.Resource;
 import com.ysj.tinySpring.beans.io.ResourceLoader;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ResourceLoaderTest {
 
 	@Test

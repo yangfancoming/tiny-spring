@@ -9,9 +9,7 @@ import java.lang.reflect.Method;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class AspectJExpressionPointcut implements Pointcut, ClassFilter, MethodMatcher {
 
 	private PointcutParser pointcutParser;

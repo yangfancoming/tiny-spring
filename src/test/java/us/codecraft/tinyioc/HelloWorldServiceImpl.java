@@ -1,8 +1,6 @@
 package us.codecraft.tinyioc;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class HelloWorldServiceImpl implements HelloWorldService {
 
     private String text;

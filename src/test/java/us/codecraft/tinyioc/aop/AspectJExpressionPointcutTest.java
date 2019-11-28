@@ -5,9 +5,7 @@ import org.junit.Test;
 import us.codecraft.tinyioc.HelloWorldService;
 import us.codecraft.tinyioc.HelloWorldServiceImpl;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class AspectJExpressionPointcutTest {
 
     @Test

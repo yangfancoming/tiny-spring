@@ -10,9 +10,7 @@ import com.ysj.tinySpring.aop.TargetSource;
 import com.ysj.tinySpring.context.ApplicationContext;
 import com.ysj.tinySpring.context.ClassPathXmlApplicationContext;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class Cglib2AopProxyTest {
 
 	@Test

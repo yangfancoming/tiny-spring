@@ -1,8 +1,6 @@
 package us.codecraft.tinyioc.aop;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ProxyFactory extends AdvisedSupport implements AopProxy {
 
 	@Override

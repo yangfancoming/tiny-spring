@@ -8,9 +8,7 @@ import us.codecraft.tinyioc.beans.xml.XmlBeanDefinitionReader;
 
 import java.util.Map;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ClassPathXmlApplicationContext extends AbstractApplicationContext {
 
 	private String configLocation;

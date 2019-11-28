@@ -6,9 +6,7 @@ import us.codecraft.tinyioc.HelloWorldServiceImpl;
 import us.codecraft.tinyioc.context.ApplicationContext;
 import us.codecraft.tinyioc.context.ClassPathXmlApplicationContext;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class Cglib2AopProxyTest {
 
 	@Test

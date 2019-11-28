@@ -3,9 +3,7 @@ package us.codecraft.tinyioc.context;
 import org.junit.Test;
 import us.codecraft.tinyioc.HelloWorldService;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ApplicationContextTest {
 
     @Test

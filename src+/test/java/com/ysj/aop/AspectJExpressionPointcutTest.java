@@ -7,9 +7,7 @@ import com.ysj.HelloWorldService;
 import com.ysj.HelloWorldServiceImpl;
 import com.ysj.tinySpring.aop.AspectJExpressionPointcut;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class AspectJExpressionPointcutTest {
 
 	@Test

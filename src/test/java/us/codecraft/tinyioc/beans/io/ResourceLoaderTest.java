@@ -6,9 +6,7 @@ import org.junit.Test;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ResourceLoaderTest {
 
 	@Test

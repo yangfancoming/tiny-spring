@@ -5,9 +5,7 @@ import us.codecraft.tinyioc.beans.factory.AbstractBeanFactory;
 
 import java.util.List;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public abstract class AbstractApplicationContext implements ApplicationContext {
 	protected AbstractBeanFactory beanFactory;
 

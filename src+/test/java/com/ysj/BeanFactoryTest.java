@@ -10,9 +10,7 @@ import com.ysj.tinySpring.beans.factory.AutowireCapableBeanFactory;
 import com.ysj.tinySpring.beans.io.ResourceLoader;
 import com.ysj.tinySpring.beans.xml.XmlBeanDefinitionReader;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class BeanFactoryTest {
 
 	@Test

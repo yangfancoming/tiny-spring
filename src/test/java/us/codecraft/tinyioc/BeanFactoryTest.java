@@ -8,9 +8,7 @@ import us.codecraft.tinyioc.beans.factory.AutowireCapableBeanFactory;
 import us.codecraft.tinyioc.beans.io.ResourceLoader;
 import us.codecraft.tinyioc.beans.xml.XmlBeanDefinitionReader;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class BeanFactoryTest {
 
     @Test

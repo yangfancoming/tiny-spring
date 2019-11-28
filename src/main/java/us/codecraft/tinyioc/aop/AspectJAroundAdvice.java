@@ -7,9 +7,7 @@ import us.codecraft.tinyioc.beans.factory.BeanFactory;
 
 import java.lang.reflect.Method;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class AspectJAroundAdvice implements Advice, MethodInterceptor {
 
 	private BeanFactory beanFactory;

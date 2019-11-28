@@ -5,9 +5,7 @@ import org.aopalliance.intercept.MethodInvocation;
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Method;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class ReflectiveMethodInvocation implements MethodInvocation {
 
 	protected Object target;

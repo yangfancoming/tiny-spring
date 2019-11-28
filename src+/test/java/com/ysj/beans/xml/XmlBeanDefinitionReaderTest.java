@@ -9,9 +9,7 @@ import com.ysj.tinySpring.beans.BeanDefinition;
 import com.ysj.tinySpring.beans.io.ResourceLoader;
 import com.ysj.tinySpring.beans.xml.XmlBeanDefinitionReader;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class XmlBeanDefinitionReaderTest {
 
 	@Test

@@ -14,9 +14,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.InputStream;
 
-/**
- * @author yihua.huang@dianping.com
- */
+
 public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
 
 	public XmlBeanDefinitionReader(ResourceLoader resourceLoader) {
